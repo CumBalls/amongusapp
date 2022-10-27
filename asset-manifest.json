@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/amongusapp/static/css/main.b33274c4.css",
-    "main.js": "/amongusapp/static/js/main.21317771.js",
+    "main.js": "/amongusapp/static/js/main.c2dabb13.js",
     "index.html": "/amongusapp/index.html",
     "main.b33274c4.css.map": "/amongusapp/static/css/main.b33274c4.css.map",
-    "main.21317771.js.map": "/amongusapp/static/js/main.21317771.js.map"
+    "main.c2dabb13.js.map": "/amongusapp/static/js/main.c2dabb13.js.map"
   },
   "entrypoints": [
     "static/css/main.b33274c4.css",
-    "static/js/main.21317771.js"
+    "static/js/main.c2dabb13.js"
   ]
 }
